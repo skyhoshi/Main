@@ -1,11 +1,11 @@
 {
-    "version": "1.21.10",
+    "version": "1.21.9",
     "description": "lua game toolkit",
     "homepage": "https://www.amulet.xyz",
     "license": "MIT",
-    "url": "https://github.com/ianmaclarty/amulet/releases/download/v1.21.10/amulet-v1.21.10-windows.zip",
-    "hash": "f7fe824c6cbf698318a18fa88794cba2d75263b64bd5a407ca814d42f00353e0",
-    "extract_dir": "amulet-v1.21.10",
+    "url": "https://github.com/ianmaclarty/amulet/releases/download/v1.21.9/amulet-v1.21.9-windows.zip",
+    "hash": "db7d786885309b71f733fb9d2be5bf4225143930e74adb578dd48c1f4c3738b3",
+    "extract_dir": "amulet-v1.21.9",
     "bin": "amulet.exe",
     "checkver": {
         "github": "https://github.com/ianmaclarty/amulet"
