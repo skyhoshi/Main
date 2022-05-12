@@ -1,5 +1,5 @@
 {
-    "version": "1.36.0-4.9.8",
+    "version": "2.2.2-4.10.9",
     "description": "Manages a local OpenShift 4.x cluster optimized for testing and development purposes.",
     "homepage": "https://code-ready.github.io/crc/",
     "license": "Apache-2.0",
@@ -7,8 +7,8 @@
     "depends": "lessmsi",
     "architecture": {
         "64bit": {
-            "url": "https://developers.redhat.com/content-gateway/rest/mirror/pub/openshift-v4/clients/crc/1.36.0/crc-windows-installer.zip",
-            "hash": "e68b47d585681881004c038812c2dcde0f56894560ae73402d6115784eb41860",
+            "url": "https://developers.redhat.com/content-gateway/rest/mirror/pub/openshift-v4/clients/crc/2.2.2/crc-windows-installer.zip",
+            "hash": "3979ee8f78b1a15a921f862c71087ddd991028f09877d55ecf5ac440e0714f22",
             "pre_install": [
                 "# The trailing backslash(\\) in $dir\\ is required by lessmsi.",
                 "# '>nul', '2>&1' sets cmd stdout to $null, and stderr to stdout",
