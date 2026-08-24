@@ -1,17 +1,17 @@
 {
-    "version": "19.3.0",
+    "version": "19.2.3",
     "description": "Run your jobs and send the results back to GitLab",
     "homepage": "https://docs.gitlab.com/runner/",
     "license": "MIT",
     "notes": "Run 'gitlab-runner register' and 'gitlab-runner install' from an elevated prompt to set it up",
     "architecture": {
         "64bit": {
-            "url": "https://gitlab-runner-downloads.s3.amazonaws.com/v19.3.0/binaries/gitlab-runner-windows-amd64.exe#/gitlab-runner.exe",
-            "hash": "bc4ac4eb1b566020888867c183d2d510efe3878b394e7b914de67f2302482984"
+            "url": "https://gitlab-runner-downloads.s3.amazonaws.com/v19.2.3/binaries/gitlab-runner-windows-amd64.exe#/gitlab-runner.exe",
+            "hash": "6672016b174ecc9b3ce0da97a936815e2c999f3cf73f01b69a53259b4a8ac64b"
         },
         "32bit": {
-            "url": "https://gitlab-runner-downloads.s3.amazonaws.com/v19.3.0/binaries/gitlab-runner-windows-386.exe#/gitlab-runner.exe",
-            "hash": "dcc9044bb4ee44a3187f6315917e2e8dc63013c850489969368ad85b3b6a93e8"
+            "url": "https://gitlab-runner-downloads.s3.amazonaws.com/v19.2.3/binaries/gitlab-runner-windows-386.exe#/gitlab-runner.exe",
+            "hash": "0440c66f5fb3b71e38d80b6fce5e6017426fb478e9348951358892d71f0b75c5"
         }
     },
     "bin": "gitlab-runner.exe",
