@@ -1,13 +1,13 @@
 {
-    "version": "8.1.2-53",
+    "version": "8.1.2-54",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
     "homepage": "https://ffmpeg.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-09-15-13-18/ffmpeg-n8.1.2-53-g1005b294ff-win64-gpl-8.1.zip",
-            "hash": "577a6a46f9c844657ac849245487a56dfc0507f9bac3f92d40370ebfb64ace72",
-            "extract_dir": "ffmpeg-n8.1.2-53-g1005b294ff-win64-gpl-8.1"
+            "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-09-17-13-19/ffmpeg-n8.1.2-54-gc573a95381-win64-gpl-8.1.zip",
+            "hash": "2d54d4e040e944520e9cc2c23083d7d7e6376d15a8eead22bff260d6ad4505c8",
+            "extract_dir": "ffmpeg-n8.1.2-54-gc573a95381-win64-gpl-8.1"
         }
     },
     "post_install": [
