@@ -1,12 +1,12 @@
 {
-    "version": "1.10.1",
+    "version": "1.11.2",
     "description": "Remote repository clones manager",
     "homepage": "https://github.com/motemen/ghq",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/motemen/ghq/releases/download/v1.10.1/ghq_windows_amd64.zip",
-            "hash": "sha1:a244bc16ec43d7626042d05978fdd9ad9c86bafe",
+            "url": "https://github.com/motemen/ghq/releases/download/v1.11.2/ghq_windows_amd64.zip",
+            "hash": "sha1:f0ecdf1bd506b1d27f95d6bf1590043e807fdeeb",
             "extract_dir": "ghq_windows_amd64"
         }
     },
