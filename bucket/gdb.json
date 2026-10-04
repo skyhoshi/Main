@@ -1,10 +1,10 @@
 {
-    "version": "17.1",
+    "version": "18.1",
     "description": "GNU Debugger",
     "homepage": "https://www.gnu.org/software/gdb/",
     "license": "GPL-3.0-or-later",
-    "url": "https://downloads.sourceforge.net/project/ezwinports/gdb-17.1-w32-bin.zip",
-    "hash": "sha1:bbfcad26525fcb467975e9f6489191bbe135680a",
+    "url": "https://downloads.sourceforge.net/project/ezwinports/gdb-18.1-w32-bin.zip",
+    "hash": "sha1:dba6198b27d86db9d45ce43632571dd373d3c435",
     "bin": [
         "bin\\gdb.exe",
         "bin\\gdbreplay.exe",
